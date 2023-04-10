@@ -6,4 +6,8 @@ public class TestHW3 {
 		
 		System.out.println("Hello world");
 	}
+	public void getInfo() {
+		
+		System.out.println("Alma Alic");
+	}
 }
